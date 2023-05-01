@@ -1,4 +1,4 @@
-# AW-Sales
+# Sales Analysis
 This analysis displays use of basic functions of Power BI to analyze most used dataset “Adventure Works”. The visualization confirms to International Business Communication Standards (IBCS) standards making it easy for the user to understand the business problem at a glance. The following functions are used in the analysis:
 1. Math & Statistical functions
 - SUM, SUMX, AVERAGE, AVERAGEX, COUNT, COUNTX, DIVIDE, MIN, MAX, COUNTROWS, DISTINCTCOUNT  
