@@ -18,3 +18,5 @@ This analysis displays use of basic functions of Power BI to analyze most used d
 - LEFT, RIGHT, UPPER, SUBSTITUTE
 9. DAX statements
 - VAR, COLUMN
+![download (2)](https://user-images.githubusercontent.com/132189501/235530487-69ca6d51-c36f-4996-9c63-c8b3d74ac5d2.png)
+![download (3)](https://user-images.githubusercontent.com/132189501/235530520-e8046d14-341b-4595-8ee7-f2f00ea29f53.png)
